@@ -66,7 +66,7 @@ ul {
 
 .special-title {
   background-color: #000;
-  color: #FFF;
+  color: rgb(20, 221, 228);
   border-radius: 2rem;
   height: 4rem;
   width: 70%;
@@ -76,7 +76,7 @@ ul {
 }
 
 #quote-title:hover {
-  background-color: #A00;
+  background-color: rgb(21, 223, 72);
 }
 
 #quote-of-the-day {
